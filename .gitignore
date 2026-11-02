@@ -1,0 +1,18 @@
+# smart-sanitization-robot
+
+# dependencies and build output
+node_modules/
+.next/
+dist/
+build/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# internal reports and working documents
+*AI Report*.pdf
+*Similarity Report*.pdf
+*.zip
