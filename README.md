@@ -4,10 +4,22 @@
 
 Firmware for a **dual-controller IoT robot for contactless disinfection** in healthcare settings. An **ESP32** runs a Wi-Fi access point, a web control page and the sensors. It sends commands over a serial link to an **Arduino UNO**, which drives the motors and the spray pumps.
 
-> Paper: *Design and Implementation of a Dual-Controller IoT-Enabled Smart Sanitization Robot for Healthcare Environments*, presented at **ETFI-2026** (IEEE Pune Section & DES Pune University).
+> **Published paper:** T. V. Mehta, K. K. Shah and S. Verma, *Design and Implementation of a Dual-Controller IoT-Enabled Smart Sanitization Robot for Healthcare Environments*, 2026 International Conference on Emerging Technologies and Future Innovations (ETFI), Pune, India, pp. 1-6. [DOI: 10.1109/ETFI68128.2026.11484603](https://doi.org/10.1109/ETFI68128.2026.11484603) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11484603/)
 > **Winner**, Project Competition on Embedded Systems and AI/Robotics, Dept. of IT, MPSTME, SVKM's NMIMS (28 Oct 2025).
 > Team: Tirth Mehta, Krimy Shah, Dhara Patel, Mohnish Badlani, Shreyas Lapalikar.
 > Portfolio page: https://tirthmehta.vercel.app/projects/smart-sanitization-robot/
+
+## Watch it working
+
+[![Watch the robot working (1 min)](docs/demo-poster.jpg)](https://tirthmehta.vercel.app/projects/smart-sanitization-robot/#video)
+
+Click the picture to play it on the project page, or download [`docs/demo.mp4`](docs/demo.mp4) (69 s, no sound).
+
+## Photos
+
+| Finished robot | Inside | From the top |
+|---|---|---|
+| ![Finished robot](docs/photos/finished-robot.jpg) | ![Inside the robot](docs/photos/inside.jpg) | ![Inside, from the top](docs/photos/inside-top.jpg) |
 
 ## System
 
@@ -44,3 +56,10 @@ The step-by-step sketches are kept on purpose. They show the real development hi
 ## Hardware
 
 ESP32 · Arduino UNO · HC-SR04 ultrasonic ×3 · IR ×2 · water-level sensor · DHT11 · PIR · L298N / L293D motor driver · 2 DC motors · relay module · 2 water pumps
+
+## Paper
+
+T. V. Mehta, K. K. Shah and S. Verma, "Design and Implementation of a Dual-Controller IoT-Enabled Smart Sanitization Robot for Healthcare Environments," *2026 International Conference on Emerging Technologies and Future Innovations (ETFI)*, Pune, India, 2026, pp. 1-6, doi: [10.1109/ETFI68128.2026.11484603](https://doi.org/10.1109/ETFI68128.2026.11484603).
+
+The authors' manuscript is in [`paper/`](paper/Mehta-Shah-Verma-ETFI-2026-Smart-Sanitization-Robot.pdf). The published version is on [IEEE Xplore](https://ieeexplore.ieee.org/document/11484603/).
+© 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses.
