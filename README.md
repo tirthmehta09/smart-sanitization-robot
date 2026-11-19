@@ -6,7 +6,7 @@ Firmware for a **dual-controller IoT robot for contactless disinfection** in hea
 
 > **Published paper:** T. V. Mehta, K. K. Shah and S. Verma, *Design and Implementation of a Dual-Controller IoT-Enabled Smart Sanitization Robot for Healthcare Environments*, 2026 International Conference on Emerging Technologies and Future Innovations (ETFI), Pune, India, pp. 1-6. [DOI: 10.1109/ETFI68128.2026.11484603](https://doi.org/10.1109/ETFI68128.2026.11484603) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11484603/)
 > **Winner**, Project Competition on Embedded Systems and AI/Robotics, Dept. of IT, MPSTME, SVKM's NMIMS (28 Oct 2025).
-> Team: Tirth Mehta, Krimy Shah, Dhara Patel, Mohnish Badlani, Shreyas Lapalikar.
+> Team: Tirth Mehta, Krimy Shah, Dhara Patel, Mohnish Badiani, Shreyas Lapalikar.
 > Portfolio page: https://tirthmehta.vercel.app/projects/smart-sanitization-robot/
 
 ## Watch it working
